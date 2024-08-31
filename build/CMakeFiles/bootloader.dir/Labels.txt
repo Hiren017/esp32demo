@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/OTA/blink/build/CMakeFiles/bootloader
+D:/OTA/blink/build/CMakeFiles/bootloader.rule
+D:/OTA/blink/build/CMakeFiles/bootloader-complete.rule
+D:/OTA/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/OTA/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/OTA/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/OTA/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/OTA/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/OTA/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/OTA/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
